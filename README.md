@@ -56,6 +56,8 @@ Create a resultant CSV/Google Sheets file with the following columns:
 
 Please view the challenge data from the following link: 
 https://drive.google.com/file/d/1NjYY0t8ed4fcLEvgQl9DIqFluUkVL3GF/view
- 
 
+**Solution**
 
+Please view the solution from the following link:
+https://docs.google.com/spreadsheets/d/1N_lcRVSJpzYWaD_kRQ4Ja634WFgEuhyLop4qd2Yiw7U/edit?usp=sharing
